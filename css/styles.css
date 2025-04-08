@@ -86,3 +86,71 @@ nav a:hover {
 #destaque a:hover {
     opacity: 1.0;
 }
+
+/* Mexendo no destaque do sobre.html */
+#box-geralS {
+    display: flex;
+}
+
+#box-secE {
+    width: 50%;
+}
+
+#box-secD {
+    width: 50%;
+}
+
+#img-empresa {
+    width: 100%;
+}
+
+#box-secD p {
+    padding-left: 30px;
+    text-align: justify;
+}
+
+#selo-melhores {
+    height: 25%;
+    margin-top: 35px;
+}
+
+/* Mexendo no destaque do solucoes.html */
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #8f7600;
+    font-size: 28px;
+}
+
+.card-produto {
+    padding: 0px 15px;
+    padding-top: 20px;
+    margin: 0px 10px;
+    background-color: #00160d;
+    border-radius: 10px;
+}
+
+.card-produto a {
+    text-decoration: none;
+    color: goldenrod;
+}
+
+.card-produto p {
+    color: white;
+}
+
+.card-produto a:hover {
+    font-weight: bold;
+}
+
+/* Mexendo no destaque do casos.html */
+.card-caso {
+    display: flex;
+}
+
+.card-caso img {
+    padding-right: 20px;
+}
+
+.text-caso {
+    text-align: start;
+}
